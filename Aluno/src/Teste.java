@@ -8,8 +8,8 @@ public class Teste {
 		
 		Aluno primeiro = new Aluno(1, "Hans", 'm', "12.345.678-9", "123.456.789-01", dataNascimentop);
 		Aluno segundo = new Aluno(2, "Marcos", 'M', "98.765.432-1", "987.654.321-00", dataNascimentos);
-	    Aluno terceiro = new Aluno(3, "Laura", 'F', "56.789.123-4", "456.789.123-99", dataNascimentot);
-	    Aluno quarto = new Aluno(4, "Sofia", 'F', "34.567.890-2", "321.654.987-77", dataNascimentoq);
+	    	Aluno terceiro = new Aluno(3, "Laura", 'F', "56.789.123-4", "456.789.123-99", dataNascimentot);
+	    	Aluno quarto = new Aluno(4, "Sofia", 'F', "34.567.890-2", "321.654.987-77", dataNascimentoq);
 
 		
 		primeiro.imprimir();
